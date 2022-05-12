@@ -1,0 +1,1 @@
+# SimpleBlog-in-Django-Codemy.com-Tutorial-
